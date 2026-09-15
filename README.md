@@ -72,7 +72,7 @@ Accident Cause
 
 Number of Vehicles Involved
 
-Analytical Workflow
+**Analytical Workflow**
 
 The script performs the following main steps:
 
@@ -116,7 +116,7 @@ Generates SHAP main-effect plots for Accident Type and Weather Status.
 
 Saves the analytical results, metadata, tables, and figures.
 **
-Installation**
+**Installation****
 
 Python 3 is required. Install the required third-party packages using:
 
